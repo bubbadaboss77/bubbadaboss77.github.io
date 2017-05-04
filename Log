@@ -1,0 +1,12 @@
+Semi-autonomous RC Car
+5/3/17:
+Today our toy RC car arrived.  We sucessfully configured the toy car and were able to drive it (forwards, backwards, left, right)
+Still waiting on L298N - H dual driver chip and raspberry Pi
+When these parts arrive, we will begin to hack the RC car and be able to control is movement from our computers via ssh.  
+Eventually we will write a python script that controls the car based on openCV and object detection.
+
+We hooked up the camera module to our raspberry pi and ran a simple face detection script using OpenCV.  The script was sucessful
+and was able to detect a face when placed in front of our camera.
+
+Next step is to adust/train openCV to recognize desired objects (road lines/stop signs)
+This can be done by uploading an .xml file with a number of positive and negative samples
