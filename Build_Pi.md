@@ -71,7 +71,7 @@ GPIO pins (for just the motors):
 
 
 
-###May 11, 2017
+
 
 Brown-red-red is 330 Ohms
 
@@ -112,7 +112,7 @@ May 17 was a much more successful day. We used the code file test1.py to get the
 
 [insert video here]
 
-###May 18, 2017:
+### May 18, 2017:
 
 Installed OpenCV using this installation guide: http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
 
