@@ -31,7 +31,7 @@ Notes: We are being extremely careful to label and track all the screws we are u
 
 Today we had a breakthrough. We finally configured all the motors, pi and L298D chip. 
 
-(Insert Photo Here)
+![img_8849](https://cloud.githubusercontent.com/assets/18706242/26271943/0f337a38-3cdb-11e7-9f57-955db604c52b.jpg)
 
 Once this was done we set up a python file to run each motor for a set period of time. Using this file we can get the car to run the motors using the pi.
 
