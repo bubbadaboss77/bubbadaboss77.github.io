@@ -11,7 +11,6 @@ This is the first day we have really begun to work on the project. The goal for 
 ### May 8 2017
 Since our last update we have ordered all the parts and successfully taken apart the car. We have taken apart the car so we can control both the motor that turns the front wheels, and the motor that controls forward and reverse.
 
-![img_3620](https://cloud.githubusercontent.com/assets/18706242/26271949/5bf5ab02-3cdb-11e7-9d70-3c2569a6be2d.jpg)
     
 Our next goal is to setup our Raspberry Pi to the Bates network. Once that is done we are following this tutotial to control our car using a blue tooth keyboard.
 
@@ -21,7 +20,7 @@ Our next goal is to setup our Raspberry Pi to the Bates network. Once that is do
 
 Once we took apart the car we started to hookup the L298D chip to the motors and batteries from the car.
 
-![img_8849](https://cloud.githubusercontent.com/assets/18706242/26271943/0f337a38-3cdb-11e7-9f57-955db604c52b.jpg)
+![img_3620](https://cloud.githubusercontent.com/assets/18706242/26271949/5bf5ab02-3cdb-11e7-9d70-3c2569a6be2d.jpg)
 
 
 As today wraps up our goals are to connect the bluetooth keyboard and the pi to the car. Most of our wires are now set up and good to go. 
