@@ -81,7 +81,7 @@ Resistor color code: https://sub.allaboutcircuits.com/images/11066.png
 
 We attached our first sensor to the car. This proved to be extremely challenging because we had to use the bread baord, wires, and resistors.
 
-(Insert some photos)
+![img_0512](https://cloud.githubusercontent.com/assets/18706242/26271999/19af34a6-3cdc-11e7-8150-f8256d7e49ba.jpg)
 
 We are using an HC-SR04 sensor...we are using two main tutorials to hook up the sensor
 - The first is [Linkl(https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi)
