@@ -121,7 +121,7 @@ Installing OpenCV on Raspberry Pi takes a little over an hour.  We are still wai
 
 While waiting, we mounted the Picamera onto the front of the car 
 
-(insert picture)  
+![img_0512](https://cloud.githubusercontent.com/assets/18706242/26271999/19af34a6-3cdc-11e7-8150-f8256d7e49ba.jpg) 
 
 Tomorrow we will use OpenCV and Picamera to recognize a printed stop sign on a wall.  When the car ‘sees’ the sign, the car will stop moving forward. 
 
