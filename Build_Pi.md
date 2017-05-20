@@ -122,6 +122,19 @@ While waiting, we mounted the Picamera onto the front of the car
 
 (insert picture)  
 
-Tomorrow we will use OpenCV and Picamera to recognize a printed stop sign on a wall.  When the car ‘sees’ the sign, the car will stop moving forward.  
+Tomorrow we will use OpenCV and Picamera to recognize a printed stop sign on a wall.  When the car ‘sees’ the sign, the car will stop moving forward. 
+
+### May 19, 2017:
+
+OpenCv was sucessfully installed.  We ran into a bit of trouble.  Our problem was that OpenCv was not binded to python.  So when we imported OpenCv into the python shell, it did not exitst. The problem was fixed 
+
+Follow this link for more specific instructions: http://stackoverflow.com/questions/25215102/installing-opencv-for-python-on-ubuntu-getting-importerror-no-module-named-cv2/34120580
+
+Today, we began to give the rc car the gift of sight using the following tutorials:
+
+https://github.com/mbasilyan/Stop-Sign-Detection
+https://pythonprogramming.net/raspberry-pi-camera-opencv-face-detection-tutorial/ 
+
+The first link has a file that contains positive and negative samples of stop signs.  We use these to train a Haar cascade which is instructed in the second tutorial on pythonprogramming.net.  More progress to come on monday.  
 
 
